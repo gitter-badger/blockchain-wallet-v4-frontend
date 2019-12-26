@@ -2,7 +2,7 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Known Vulnerabilities](https://snyk.io/test/github/blockchain/blockchain-wallet-v4-frontend/badge.svg?targetFile=packages%2Fblockchain-wallet-v4-frontend%2Fpackage.json)](https://snyk.io/test/github/blockchain/blockchain-wallet-v4-frontend?targetFile=packages%2Fblockchain-wallet-v4-frontend%2Fpackage.json)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Join the chat at https://gitter.im/blockchain-wallet-v4-frontend/community](https://badges.gitter.im/blockchain-wallet-v4-frontend/community.svg)](https://gitter.im/blockchain-wallet-v4-frontend/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Blockchain Wallet v4
 Be Your Own Bank at [login.blockchain.com](https://login.blockchain.com).
